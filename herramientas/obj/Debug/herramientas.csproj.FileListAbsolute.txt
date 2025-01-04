@@ -1,0 +1,7 @@
+C:\Users\rafae\Desktop\AppWebOtani\herramientas\bin\Debug\herramientas.dll.config
+C:\Users\rafae\Desktop\AppWebOtani\herramientas\bin\Debug\herramientas.dll
+C:\Users\rafae\Desktop\AppWebOtani\herramientas\bin\Debug\herramientas.pdb
+C:\Users\rafae\Desktop\AppWebOtani\herramientas\obj\Debug\herramientas.csproj.AssemblyReference.cache
+C:\Users\rafae\Desktop\AppWebOtani\herramientas\obj\Debug\herramientas.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\AppWebOtani\herramientas\obj\Debug\herramientas.dll
+C:\Users\rafae\Desktop\AppWebOtani\herramientas\obj\Debug\herramientas.pdb

@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C896A9E2-7F5A-4E9E-97B6-04738EB23F18}|negocio\\negocio.csproj|C:\\Users\\rafae\\Desktop\\AppWebOtani\\negocio\\datonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C896A9E2-7F5A-4E9E-97B6-04738EB23F18}|negocio\\negocio.csproj|solutionrelative:negocio\\datonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C896A9E2-7F5A-4E9E-97B6-04738EB23F18}|negocio\\negocio.csproj|C:\\Users\\rafae\\Desktop\\AppWebOtani\\negocio\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C896A9E2-7F5A-4E9E-97B6-04738EB23F18}|negocio\\negocio.csproj|solutionrelative:negocio\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C896A9E2-7F5A-4E9E-97B6-04738EB23F18}|negocio\\negocio.csproj|C:\\Users\\rafae\\Desktop\\AppWebOtani\\negocio\\compranegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C896A9E2-7F5A-4E9E-97B6-04738EB23F18}|negocio\\negocio.csproj|solutionrelative:negocio\\compranegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C896A9E2-7F5A-4E9E-97B6-04738EB23F18}|negocio\\negocio.csproj|c:\\users\\rafae\\desktop\\appwebotani\\negocio\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C896A9E2-7F5A-4E9E-97B6-04738EB23F18}|negocio\\negocio.csproj|solutionrelative:negocio\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A69398C4-241F-4586-97E1-C19366B7540B}|dominio\\dominio.csproj|c:\\users\\rafae\\desktop\\appwebotani\\dominio\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A69398C4-241F-4586-97E1-C19366B7540B}|dominio\\dominio.csproj|solutionrelative:dominio\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A69398C4-241F-4586-97E1-C19366B7540B}|dominio\\dominio.csproj|c:\\users\\rafae\\desktop\\appwebotani\\dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,51 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 269,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Datos.cs",
-              "DocumentMoniker": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\dominio\\Datos.cs",
-              "RelativeDocumentMoniker": "dominio\\Datos.cs",
-              "ToolTip": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\dominio\\Datos.cs",
-              "RelativeToolTip": "dominio\\Datos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T06:06:20.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\dominio\\Cliente.cs",
-              "RelativeDocumentMoniker": "dominio\\Cliente.cs",
-              "ToolTip": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\dominio\\Cliente.cs",
-              "RelativeToolTip": "dominio\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T06:06:12.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClienteNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\negocio\\ClienteNegocio.cs",
-              "RelativeDocumentMoniker": "negocio\\ClienteNegocio.cs",
-              "ToolTip": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\negocio\\ClienteNegocio.cs",
-              "RelativeToolTip": "negocio\\ClienteNegocio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T06:02:08.229Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -94,40 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DatoNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\negocio\\DatoNegocio.cs",
-              "RelativeDocumentMoniker": "negocio\\DatoNegocio.cs",
-              "ToolTip": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\negocio\\DatoNegocio.cs",
-              "RelativeToolTip": "negocio\\DatoNegocio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "ClienteNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\negocio\\ClienteNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\ClienteNegocio.cs",
+              "ToolTip": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\negocio\\ClienteNegocio.cs",
+              "RelativeToolTip": "negocio\\ClienteNegocio.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T05:18:34.651Z",
+              "WhenOpened": "2025-01-04T06:56:02.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\negocio\\Conexion.cs",
-              "RelativeDocumentMoniker": "negocio\\Conexion.cs",
-              "ToolTip": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\negocio\\Conexion.cs",
-              "RelativeToolTip": "negocio\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\dominio\\Cliente.cs",
+              "RelativeDocumentMoniker": "dominio\\Cliente.cs",
+              "ToolTip": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\dominio\\Cliente.cs",
+              "RelativeToolTip": "dominio\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T05:18:21.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CompraNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\negocio\\CompraNegocio.cs",
-              "RelativeDocumentMoniker": "negocio\\CompraNegocio.cs",
-              "ToolTip": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\negocio\\CompraNegocio.cs",
-              "RelativeToolTip": "negocio\\CompraNegocio.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAIwE8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T05:18:06.412Z",
+              "WhenOpened": "2025-01-04T06:54:56.522Z",
               "EditorCaption": ""
             }
           ]

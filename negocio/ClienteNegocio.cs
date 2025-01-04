@@ -31,14 +31,7 @@ namespace negocio
         {
             mensaje = "";
             List<Cliente> clientes = new List<Cliente>();
-            try
-            {
-                clientes = Cliente.Listar();
-            }
-            catch (Exception ex)
-            {
-                mensaje = ex.Message;
-            }
+          
             return clientes;
         }
 
