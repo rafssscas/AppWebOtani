@@ -39,6 +39,10 @@
                 </p>
             </section>
         </div>
+         <div class="text-center">
+            <asp:Button ID="btnLogin" runat="server" Text="Ingresar" CssClass="btn btn-primary" PostBackUrl="~/Login.aspx" />
+        </div>
+
     </main>
 
 </asp:Content>

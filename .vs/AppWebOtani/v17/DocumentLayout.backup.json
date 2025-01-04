@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C896A9E2-7F5A-4E9E-97B6-04738EB23F18}|negocio\\negocio.csproj|c:\\users\\rafae\\desktop\\appwebotani\\negocio\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C896A9E2-7F5A-4E9E-97B6-04738EB23F18}|negocio\\negocio.csproj|solutionrelative:negocio\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBA93B29-3DCE-4DB0-9835-B7F0CEBC74BA}|Principal\\Principal.csproj|c:\\users\\rafae\\desktop\\appwebotani\\principal\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA93B29-3DCE-4DB0-9835-B7F0CEBC74BA}|Principal\\Principal.csproj|solutionrelative:principal\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A69398C4-241F-4586-97E1-C19366B7540B}|dominio\\dominio.csproj|c:\\users\\rafae\\desktop\\appwebotani\\dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A69398C4-241F-4586-97E1-C19366B7540B}|dominio\\dominio.csproj|solutionrelative:dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBA93B29-3DCE-4DB0-9835-B7F0CEBC74BA}|Principal\\Principal.csproj|c:\\users\\rafae\\desktop\\appwebotani\\principal\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FBA93B29-3DCE-4DB0-9835-B7F0CEBC74BA}|Principal\\Principal.csproj|solutionrelative:principal\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA93B29-3DCE-4DB0-9835-B7F0CEBC74BA}|Principal\\Principal.csproj|c:\\users\\rafae\\desktop\\appwebotani\\principal\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FBA93B29-3DCE-4DB0-9835-B7F0CEBC74BA}|Principal\\Principal.csproj|solutionrelative:principal\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,27 +39,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClienteNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\negocio\\ClienteNegocio.cs",
-              "RelativeDocumentMoniker": "negocio\\ClienteNegocio.cs",
-              "ToolTip": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\negocio\\ClienteNegocio.cs",
-              "RelativeToolTip": "negocio\\ClienteNegocio.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCsAAAAdAAAAAAAAAA==",
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\Principal\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Principal\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\Principal\\Login.aspx.cs",
+              "RelativeToolTip": "Principal\\Login.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T06:56:02.688Z",
+              "WhenOpened": "2025-01-04T07:19:01.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\Principal\\Default.aspx",
+              "RelativeDocumentMoniker": "Principal\\Default.aspx",
+              "ToolTip": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\Principal\\Default.aspx",
+              "RelativeToolTip": "Principal\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-04T07:10:34.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\dominio\\Cliente.cs",
-              "RelativeDocumentMoniker": "dominio\\Cliente.cs",
-              "ToolTip": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\dominio\\Cliente.cs",
-              "RelativeToolTip": "dominio\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T06:54:56.522Z",
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\Principal\\Login.aspx",
+              "RelativeDocumentMoniker": "Principal\\Login.aspx",
+              "ToolTip": "C:\\Users\\rafae\\Desktop\\AppWebOtani\\Principal\\Login.aspx",
+              "RelativeToolTip": "Principal\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-04T07:04:12.544Z",
               "EditorCaption": ""
             }
           ]
