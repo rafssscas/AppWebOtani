@@ -1,4 +1,5 @@
-﻿using System;
+﻿using dominio;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -39,6 +40,40 @@ namespace negocio
                 mensaje = ex.Message;
             }
             return clientes;
+        }
+
+        public int Existe(string numero, int defaultid, out string mensaje)
+        {
+
+            mensaje = string.Empty;
+            int respuesta = 0;
+
+            return respuesta;
+        }
+
+        public int Guardar(Cliente objeto, out string mensaje)
+        {
+            mensaje = string.Empty;
+            int respuesta = 0;
+
+            return respuesta;
+
+        }
+
+        public int Editar(Cliente objeto, out string mensaje)
+        {
+            mensaje = string.Empty;
+            int respuesta = 0;
+
+
+            return respuesta;
+        }
+
+        public int Eliminar(int id)
+        {
+            int respuesta = 0;
+
+            return respuesta;
         }
     }
 }

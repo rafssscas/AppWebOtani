@@ -46,5 +46,14 @@
     <Compile Include="UsuarioNegocio.cs" />
     <Compile Include="VentaNegocio.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\dominio\dominio.csproj">
+      <Project>{a69398c4-241f-4586-97e1-c19366b7540b}</Project>
+      <Name>dominio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Configuration" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
