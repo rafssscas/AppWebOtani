@@ -13,5 +13,12 @@ namespace Principal
         {
 
         }
+
+        protected void btnSearch_Click(object sender, EventArgs e)
+        {
+            string searchTerm = txtSearch.Text.Trim();
+
+        }
+
     }
 }
